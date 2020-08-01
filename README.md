@@ -1,8 +1,7 @@
-# AngularTourOfHeroes
+# Angular Tour Of Heroes (in Angular 10)
 
 This is my Angular Tour of Heroes app.  There are many like it, but this one is mine.  My app is my best friend.  It is my life.  I must master it as I master my life.  Without me, my app is useless.  Without my app, I am useless.  I must code my app true.  I must code more cleanly than the bugs that are trying to crash my app.  My app and I know that what counts in the biz is not the lines of code I write, nor the number of commits I make, nor the number of stars on our repo.  We know that it is e2e testing that counts.  We will pass.
 
-New Update!
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
